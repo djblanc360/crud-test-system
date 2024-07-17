@@ -1,0 +1,7 @@
+# Node.js dependencies
+/node_modules
+
+
+# Ignored data files
+data/*.json
+data/__mocks__/*.json
